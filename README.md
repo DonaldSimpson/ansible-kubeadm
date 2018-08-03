@@ -14,5 +14,6 @@ Then run the playbook, like this:
 	`ansible-playbook -i inventory site.yml`
 
 
-This is a very simple playbook and could serve as a starting point for more
-complex projects.
+I am using this in conjunction with the kubeadm steps here:
+
+https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
